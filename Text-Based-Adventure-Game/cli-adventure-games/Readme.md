@@ -1,8 +1,5 @@
 Text Based Adventure Games built with Node.js
 
-> "_It runs on the world's most powerful graphic chip - Imagination_" - Sheldon Cooper
-
-
 The game engine is still in active development and supports only basic features. 
 
 _Pull requests and Game Scripts welcome!_
