@@ -2,24 +2,19 @@
   "name": "cli-adventure-games",
   "description": "Play Text based Adventures in your terminal",
   "version": "0.1.2",
-  "homepage": "https://github.com/arvindr21/cli-adventure-games",
+  "homepage": "https://github.com/wheattthins/cli-adventure-games",
   "author": {
-    "name": "arvind ravulavaru",
-    "url": "https://github.com/arvindr21"
+    "name": "Ethan Johnson",
+    "url": "https://github.com/wheattthins"
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/arvindr21/cli-adventure-games.git"
+    "url": "git://github.com/wheattthins/cli-adventure-games.git"
   },
   "bugs": {
-    "url": "https://github.com/arvindr21/cli-adventure-games/issues"
+    "url": "https://github.com/wheattthins/cli-adventure-games/issues"
   },
-  "licenses": [
-    {
-      "type": "MIT",
-      "url": "https://github.com/arvindr21/cli-adventure-games/blob/master/LICENSE-MIT"
-    }
-  ],
+  
   "keywords": [
     "cli",
     "games",
